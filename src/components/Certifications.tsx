@@ -25,6 +25,7 @@ const certifications: Certification[] = [
     title: 'Data Structures and Algorithms',
     issuer: 'HackerRank',
     date: 'December 2025',
+    credentialUrl: '#',
   },
   {
     title: 'UI/UX Design Fundamentals',
