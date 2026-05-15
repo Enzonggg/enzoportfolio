@@ -1,6 +1,5 @@
 import { motion } from 'framer-motion';
 import { ExternalLink } from 'lucide-react';
-
 interface Certification {
   title: string;
   issuer: string;
@@ -33,6 +32,24 @@ const certifications: Certification[] = [
     date: 'October 2026',
     credentialUrl: '#',
   },
+  {
+    title: 'Angular',
+    issuer: 'Sololearn',
+    date: 'April 2026',
+    credentialUrl: '#',
+  },
+  {
+    title: 'Certified in Cybersecurity',
+    issuer: 'ISC2',
+    date: 'April 2026',
+    credentialUrl: '#',
+  },
+  {
+    title: 'Data Analytics Fundamentals',
+    issuer: 'DataSense Analytics',
+    date: 'May 2026',
+    credentialUrl: '#',
+  }
 ];
 
 const Certifications = () => {
