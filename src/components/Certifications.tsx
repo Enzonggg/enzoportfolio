@@ -49,8 +49,15 @@ const certifications: Certification[] = [
     issuer: 'DataSense Analytics',
     date: 'May 2026',
     credentialUrl: '#',
+  },
+  {
+    title: 'Back End Development and APIs ',
+    issuer: 'FreeCodeCamp',
+    date: 'November 2025',
+    credentialUrl: '#',
   }
 ];
+
 
 const Certifications = () => {
   return (
