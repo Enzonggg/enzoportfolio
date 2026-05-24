@@ -15,7 +15,7 @@ const projects: Project[] = [
     title: 'Cake Reservation System',
     description: 'A web application designed to facilitate the reservation of cakes for special occasions. Users can browse through a variety of cake options, select their desired cake, and make a reservation for pickup or delivery.',
     tech: ['PHP', 'CSS', 'MySQL'],
-    image: '/public/cake.png',
+    image: '/cake.png',
     liveUrl: '#',
     githubUrl: 'https://github.com/Enzonggg/OrderSlice.git',
   },
@@ -24,7 +24,7 @@ const projects: Project[] = [
     description:
       'A comprehensive web application designed to streamline the student clearance process for educational institutions. Built with Angular for the frontend and PHP for the backend, SCMS offers an intuitive interface for students and administrators to manage clearance tasks efficiently.',
     tech: ['Angular', 'PHP', 'TypeScript', 'MySQL'],
-    image: '/public/scams.png',
+    image: '/scams.png',
     liveUrl: '#',
     githubUrl: 'https://github.com/Enzonggg/scams.git',
   },
@@ -33,7 +33,7 @@ const projects: Project[] = [
     description:
       'A robust web application tailored for dental clinics, designed to manage patient records, appointments, and billing processes.',
     tech: ['Next.js', 'Bootstrap', 'TypeScript'],
-    image: '/public/medgabay.png',
+    image: '/medgabay.png',
     liveUrl: 'https://clinic-management-swart.vercel.app/',
     githubUrl: 'https://github.com/Enzonggg/Clinic-Management.git',
   },
@@ -42,7 +42,7 @@ const projects: Project[] = [
     description:
       'A comprehensive web application designed to streamline the operations of a clinic, including patient management, appointment scheduling, and medical record keeping.',
     tech: ['Flask', 'Python', 'Bootstrap', 'HTML', 'MySQL'],
-    image: '/public/dental.png',
+    image: '/dental.png',
     liveUrl: '#',
     githubUrl: 'https://github.com/Enzonggg/clinicmanagementsystem.git',
   },
@@ -51,7 +51,7 @@ const projects: Project[] = [
     description:
       'A web application that allows users to discover, share, and manage their favorite recipes. Users can create an account, submit their own recipes, and explore a wide variety of dishes from around the world.',
     tech: ['React.js', 'CSS', 'MySQL'],
-    image: '/public/recipehub.png',
+    image: '/recipehub.png',
     liveUrl: '#',
     githubUrl: 'https://recipehub-gray.vercel.app/',
   },
@@ -60,7 +60,7 @@ const projects: Project[] = [
     description:
       'A mobile application that helps pet owners monitor and manage their pets health records, appointments, and dietary needs.',
     tech: ['Dart', 'Flutter'],
-    image: '/public/pethealth.jpg',
+    image: '/pethealth.jpg',
     liveUrl: 'https://coffee-landingpage-theta.vercel.app/',
     githubUrl: 'https://github.com/Enzonggg/Pet-Health-Tracker.git',
   },
@@ -69,7 +69,7 @@ const projects: Project[] = [
     description:
       'A modern landing page for a coffee shop, designed to showcase their products and services.',
     tech: ['HTML5', 'Tailwind CSS', 'JavaScript'],
-    image: '/public/coffee.png',
+    image: '/coffee.png',
     liveUrl: 'https://coffee-landingpage-theta.vercel.app/',
     githubUrl: 'https://github.com/Enzonggg/coffee-landingpage.git',
   },
@@ -78,7 +78,7 @@ const projects: Project[] = [
     description:
       'A simple and visually appealing landing page for a restaurant, designed to attract and engage visitors with their menu and services.',
     tech: ['HTML', 'CSS'],
-    image: '/public/restaurant.png',
+    image: '/restaurant.png',
     liveUrl: 'https://food-chi-blush.vercel.app/',
     githubUrl: 'https://github.com/Enzonggg/Food.git',
   },
@@ -87,7 +87,7 @@ const projects: Project[] = [
     description:
       'A web application designed to facilitate the management of school clubs and organizations.',
     tech: ['Angular', 'TypeScript', 'CSS'],
-    image: '/public/club.png',
+    image: '/club.png',
     liveUrl: 'https://school-club-management-student-fron.vercel.app/',
     githubUrl: 'https://github.com/Enzonggg/school-club-management---student-frontend.git',
   },
@@ -96,7 +96,7 @@ const projects: Project[] = [
     description:
       'Visually appealing landing page for a travel agency, designed to attract and engage visitors.',
     tech: ['HTML', 'CSS'],
-    image: '/public/travel.png',
+    image: '/travel.png',
     liveUrl: 'https://enzonggg.github.io/travel-landing-page/',
     githubUrl: 'https://github.com/Enzonggg/travel-landing-page.git',
   },
@@ -105,7 +105,7 @@ const projects: Project[] = [
     description:
       'A sleek and modern portfolio website to showcase personal projects and skills.',
     tech: ['HTML', 'CSS', 'JavaScript'],
-    image: '/public/portfolio.png',
+    image: '/portfolio.png',
     liveUrl: 'https://lorenzoaurinportfolio.vercel.app/',
     githubUrl: 'https://github.com/Enzonggg/lorenzoaurinportfolio.git',
   },
@@ -114,7 +114,7 @@ const projects: Project[] = [
     description:
       'A modern e-learning platform designed to provide an engaging and interactive learning experience for students.',
     tech: ['React18', 'CSS', 'TypeScript'],
-    image: '/public/elearn.png',
+    image: '/elearn.png',
     liveUrl: 'https://e-learning-jade-nine.vercel.app/',
     githubUrl: 'https://github.com/Enzonggg/E-Learning.git',
   },
@@ -123,7 +123,7 @@ const projects: Project[] = [
     description:
       'A modern e-commerce platform designed for food enthusiasts to discover and purchase their favorite culinary products.',
     tech: ['React.js', 'CSS', 'TypeScript'],
-    image: '/public/foodie.png',
+    image: '/foodie.png',
     liveUrl: 'https://foodie.vercel.app/',
     githubUrl: '',
   },
@@ -132,7 +132,7 @@ const projects: Project[] = [
     description:
       'A fun and engaging word game where players unscramble letters to form valid words.',
     tech: ['HTML', 'CSS', 'JavaScript'],
-    image: '/public/scramble.png',
+    image: '/scramble.png',
     liveUrl: 'https://enzonggg.github.io/scramble/',
     githubUrl: '#',
   },
