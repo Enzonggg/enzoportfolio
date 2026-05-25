@@ -1,4 +1,4 @@
-import { FaEnvelope, FaGithub, FaLinkedin } from 'react-icons/fa';
+import { FaEnvelope, FaGithub, FaLinkedin, FaInstagram  } from 'react-icons/fa';
 
 const Footer = () => {
   return (
@@ -71,6 +71,14 @@ const Footer = () => {
               className="text-gray-400 transition hover:text-purple-400"
             >
               <FaEnvelope size={20} />
+            </a>
+            <a
+              href="https://instagram.com/enzonggg"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="text-gray-400 transition hover:text-purple-400"
+            >
+              <FaInstagram size={20} />
             </a>
           </div>
         </div>
