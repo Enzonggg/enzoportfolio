@@ -34,7 +34,7 @@ const projects: Project[] = [
       'A robust web application tailored for dental clinics, designed to manage patient records, appointments, and billing processes.',
     tech: ['Next.js', 'Bootstrap', 'TypeScript'],
     image: '/medgabay.png',
-    liveUrl: 'https://clinic-management-swart.vercel.app/',
+    liveUrl: '',
     githubUrl: '',
   },
   {
@@ -53,7 +53,7 @@ const projects: Project[] = [
     tech: ['React.js', 'CSS', 'MySQL'],
     image: '/recipehub.png',
     liveUrl: '#',
-    githubUrl: 'https://recipehub-gray.vercel.app/',
+    githubUrl: '',
   },
   {
     title: 'Pet Health Tracker',
@@ -83,22 +83,13 @@ const projects: Project[] = [
     githubUrl: '',
   },
   {
-    title: 'School Club Management System',
-    description:
-      'A web application designed to facilitate the management of school clubs and organizations.',
-    tech: ['Angular', 'TypeScript', 'CSS'],
-    image: '/club.png',
-    liveUrl: '',
-    githubUrl: '',
-  },
-  {
     title: 'Travel Landing Page',
     description:
       'Visually appealing landing page for a travel agency, designed to attract and engage visitors.',
     tech: ['HTML', 'CSS'],
     image: '/travel.png',
-    liveUrl: 'https://enzonggg.github.io/travel-landing-page/',
-    githubUrl: 'https://github.com/Enzonggg/travel-landing-page.git',
+    liveUrl: '',
+    githubUrl: '',
   },
   {
     title: 'Portfolio Website',
@@ -106,8 +97,8 @@ const projects: Project[] = [
       'A sleek and modern portfolio website to showcase personal projects and skills.',
     tech: ['HTML', 'CSS', 'JavaScript'],
     image: '/portfolio.png',
-    liveUrl: 'https://lorenzoaurinportfolio.vercel.app/',
-    githubUrl: 'https://github.com/Enzonggg/lorenzoaurinportfolio.git',
+    liveUrl: '',
+    githubUrl: '',
   },
   {
     title: 'Elearning',
@@ -133,7 +124,7 @@ const projects: Project[] = [
       'A fun and engaging word game where players unscramble letters to form valid words.',
     tech: ['HTML', 'CSS', 'JavaScript'],
     image: '/scramble.png',
-    liveUrl: 'https://enzonggg.github.io/scramble/',
+    liveUrl: '',
     githubUrl: '#',
   },
 ];
