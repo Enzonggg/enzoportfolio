@@ -35,7 +35,7 @@ const projects: Project[] = [
     tech: ['Next.js', 'Bootstrap', 'TypeScript'],
     image: '/medgabay.png',
     liveUrl: 'https://clinic-management-swart.vercel.app/',
-    githubUrl: 'https://github.com/Enzonggg/Clinic-Management.git',
+    githubUrl: '',
   },
   {
     title: ' Dental Clinic Management System',
@@ -61,7 +61,7 @@ const projects: Project[] = [
       'A mobile application that helps pet owners monitor and manage their pets health records, appointments, and dietary needs.',
     tech: ['Dart', 'Flutter'],
     image: '/pethealth.jpg',
-    liveUrl: 'https://coffee-landingpage-theta.vercel.app/',
+    liveUrl: '',
     githubUrl: 'https://github.com/Enzonggg/Pet-Health-Tracker.git',
   },
   {
@@ -70,8 +70,8 @@ const projects: Project[] = [
       'A modern landing page for a coffee shop, designed to showcase their products and services.',
     tech: ['HTML5', 'Tailwind CSS', 'JavaScript'],
     image: '/coffee.png',
-    liveUrl: 'https://coffee-landingpage-theta.vercel.app/',
-    githubUrl: 'https://github.com/Enzonggg/coffee-landingpage.git',
+    liveUrl: '',
+    githubUrl: '',
   },
   {
     title: 'Food Lover',
@@ -79,8 +79,8 @@ const projects: Project[] = [
       'A simple and visually appealing landing page for a restaurant, designed to attract and engage visitors with their menu and services.',
     tech: ['HTML', 'CSS'],
     image: '/restaurant.png',
-    liveUrl: 'https://food-chi-blush.vercel.app/',
-    githubUrl: 'https://github.com/Enzonggg/Food.git',
+    liveUrl: '',
+    githubUrl: '',
   },
   {
     title: 'School Club Management System',
@@ -116,7 +116,7 @@ const projects: Project[] = [
     tech: ['React18', 'CSS', 'TypeScript'],
     image: '/elearn.png',
     liveUrl: 'https://e-learning-jade-nine.vercel.app/',
-    githubUrl: 'https://github.com/Enzonggg/E-Learning.git',
+    githubUrl: '',
   },
   {
     title: 'Foodie ecommerce',
@@ -124,7 +124,7 @@ const projects: Project[] = [
       'A modern e-commerce platform designed for food enthusiasts to discover and purchase their favorite culinary products.',
     tech: ['React.js', 'CSS', 'TypeScript'],
     image: '/foodie.png',
-    liveUrl: 'https://foodie.vercel.app/',
+    liveUrl: '',
     githubUrl: '',
   },
   {
