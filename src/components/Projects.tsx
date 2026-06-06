@@ -107,7 +107,7 @@ const projects: Project[] = [
     tech: ['React18', 'CSS', 'TypeScript'],
     image: '/elearn.png',
     liveUrl: '#',
-    githubUrl: '',
+    githubUrl: '#',
   },
   {
     title: 'Foodie ecommerce',
