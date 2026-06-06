@@ -17,7 +17,7 @@ const projects: Project[] = [
     tech: ['PHP', 'CSS', 'MySQL'],
     image: '/cake.png',
     liveUrl: '#',
-    githubUrl: '',
+    githubUrl: '#',
   },
   {
     title: 'Student Clearance and Monitoring System (SCMS)',
@@ -26,7 +26,7 @@ const projects: Project[] = [
     tech: ['Angular', 'PHP', 'TypeScript', 'MySQL'],
     image: '/scams.png',
     liveUrl: '#',
-    githubUrl: '',
+    githubUrl: '#',
   },
   {
     title: 'Clinic Management System',
@@ -34,8 +34,8 @@ const projects: Project[] = [
       'A robust web application tailored for dental clinics, designed to manage patient records, appointments, and billing processes.',
     tech: ['Next.js', 'Bootstrap', 'TypeScript'],
     image: '/medgabay.png',
-    liveUrl: '',
-    githubUrl: '',
+    liveUrl: '#',
+    githubUrl: '#',
   },
   {
     title: ' Dental Clinic Management System',
@@ -44,7 +44,7 @@ const projects: Project[] = [
     tech: ['Flask', 'Python', 'Bootstrap', 'HTML', 'MySQL'],
     image: '/dental.png',
     liveUrl: '#',
-    githubUrl: '',
+    githubUrl: '#',
   },
   {
     title: 'Recipehub',
@@ -53,7 +53,7 @@ const projects: Project[] = [
     tech: ['React.js', 'CSS', 'MySQL'],
     image: '/recipehub.png',
     liveUrl: '#',
-    githubUrl: '',
+    githubUrl: '#',
   },
   {
     title: 'Pet Health Tracker',
@@ -61,8 +61,8 @@ const projects: Project[] = [
       'A mobile application that helps pet owners monitor and manage their pets health records, appointments, and dietary needs.',
     tech: ['Dart', 'Flutter'],
     image: '/pethealth.jpg',
-    liveUrl: '',
-    githubUrl: '',
+    liveUrl: '#',
+    githubUrl: '#',
   },
   {
     title: 'Keithston Coffee Shop',
@@ -70,8 +70,8 @@ const projects: Project[] = [
       'A modern landing page for a coffee shop, designed to showcase their products and services.',
     tech: ['HTML5', 'Tailwind CSS', 'JavaScript'],
     image: '/coffee.png',
-    liveUrl: '',
-    githubUrl: '',
+    liveUrl: '#',
+    githubUrl: '#',
   },
   {
     title: 'Food Lover',
@@ -79,8 +79,8 @@ const projects: Project[] = [
       'A simple and visually appealing landing page for a restaurant, designed to attract and engage visitors with their menu and services.',
     tech: ['HTML', 'CSS'],
     image: '/restaurant.png',
-    liveUrl: '',
-    githubUrl: '',
+    liveUrl: '#',
+    githubUrl: '#',
   },
   {
     title: 'Travel Landing Page',
@@ -88,8 +88,8 @@ const projects: Project[] = [
       'Visually appealing landing page for a travel agency, designed to attract and engage visitors.',
     tech: ['HTML', 'CSS'],
     image: '/travel.png',
-    liveUrl: '',
-    githubUrl: '',
+    liveUrl: '#',
+    githubUrl: '#',
   },
   {
     title: 'Portfolio Website',
@@ -97,8 +97,8 @@ const projects: Project[] = [
       'A sleek and modern portfolio website to showcase personal projects and skills.',
     tech: ['HTML', 'CSS', 'JavaScript'],
     image: '/portfolio.png',
-    liveUrl: '',
-    githubUrl: '',
+    liveUrl: '#',
+    githubUrl: '#',
   },
   {
     title: 'Elearning',
@@ -106,7 +106,7 @@ const projects: Project[] = [
       'A modern e-learning platform designed to provide an engaging and interactive learning experience for students.',
     tech: ['React18', 'CSS', 'TypeScript'],
     image: '/elearn.png',
-    liveUrl: 'https://e-learning-jade-nine.vercel.app/',
+    liveUrl: '#',
     githubUrl: '',
   },
   {
@@ -115,8 +115,8 @@ const projects: Project[] = [
       'A modern e-commerce platform designed for food enthusiasts to discover and purchase their favorite culinary products.',
     tech: ['React.js', 'CSS', 'TypeScript'],
     image: '/foodie.png',
-    liveUrl: '',
-    githubUrl: '',
+    liveUrl: '#',
+    githubUrl: '#',
   },
   {
     title: 'Scramble Game',
@@ -124,7 +124,7 @@ const projects: Project[] = [
       'A fun and engaging word game where players unscramble letters to form valid words.',
     tech: ['HTML', 'CSS', 'JavaScript'],
     image: '/scramble.png',
-    liveUrl: '',
+    liveUrl: '#',
     githubUrl: '#',
   },
 ];
