@@ -104,7 +104,7 @@ const projects: Project[] = [
     title: 'Elearning',
     description:
       'A modern e-learning platform designed to provide an engaging and interactive learning experience for students.',
-    tech: ['React18', 'CSS', 'TypeScript'],
+    tech: ['React', 'CSS', 'TypeScript'],
     image: '/elearn.png',
     liveUrl: '#',
     githubUrl: '#',
@@ -113,7 +113,7 @@ const projects: Project[] = [
     title: 'Foodie ecommerce',
     description:
       'A modern e-commerce platform designed for food enthusiasts to discover and purchase their favorite culinary products.',
-    tech: ['React.js', 'CSS', 'TypeScript'],
+    tech: ['PHP', 'CSS', 'MySQL'],
     image: '/foodie.png',
     liveUrl: '#',
     githubUrl: '#',
