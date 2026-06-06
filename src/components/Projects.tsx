@@ -17,7 +17,7 @@ const projects: Project[] = [
     tech: ['PHP', 'CSS', 'MySQL'],
     image: '/cake.png',
     liveUrl: '#',
-    githubUrl: 'https://github.com/Enzonggg/OrderSlice.git',
+    githubUrl: '',
   },
   {
     title: 'Student Clearance and Monitoring System (SCMS)',
@@ -26,7 +26,7 @@ const projects: Project[] = [
     tech: ['Angular', 'PHP', 'TypeScript', 'MySQL'],
     image: '/scams.png',
     liveUrl: '#',
-    githubUrl: 'https://github.com/Enzonggg/scams.git',
+    githubUrl: '',
   },
   {
     title: 'Clinic Management System',
@@ -44,7 +44,7 @@ const projects: Project[] = [
     tech: ['Flask', 'Python', 'Bootstrap', 'HTML', 'MySQL'],
     image: '/dental.png',
     liveUrl: '#',
-    githubUrl: 'https://github.com/Enzonggg/clinicmanagementsystem.git',
+    githubUrl: '',
   },
   {
     title: 'Recipehub',
@@ -62,7 +62,7 @@ const projects: Project[] = [
     tech: ['Dart', 'Flutter'],
     image: '/pethealth.jpg',
     liveUrl: '',
-    githubUrl: 'https://github.com/Enzonggg/Pet-Health-Tracker.git',
+    githubUrl: '',
   },
   {
     title: 'Keithston Coffee Shop',
@@ -88,8 +88,8 @@ const projects: Project[] = [
       'A web application designed to facilitate the management of school clubs and organizations.',
     tech: ['Angular', 'TypeScript', 'CSS'],
     image: '/club.png',
-    liveUrl: 'https://school-club-management-student-fron.vercel.app/',
-    githubUrl: 'https://github.com/Enzonggg/school-club-management---student-frontend.git',
+    liveUrl: '',
+    githubUrl: '',
   },
   {
     title: 'Travel Landing Page',
