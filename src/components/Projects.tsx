@@ -130,7 +130,7 @@ const projects: Project[] = [
   {
     title: 'Barangay Management System',
     description:
-      'A digital platform that helps barangay officials manage resident information, issue documents, record complaints, and organize community services. It stores records in a centralized database, making information easier to access, update, and manage.',
+      'A comprehensive web application designed to streamline the administrative tasks of a barangay, including resident management, event scheduling, and document processing.',
     tech: ['Angular', 'SCSS', 'Supabase'],
     image: '/barangay.png',
     liveURL: '#',
