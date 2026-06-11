@@ -127,6 +127,13 @@ const projects: Project[] = [
     liveUrl: '#',
     githubUrl: '#',
   },
+  {
+    title: 'Barangay Management System',
+    description:
+      'A digital platform that helps barangay officials manage resident information, issue documents, record complaints, and organize community services. It stores records in a centralized database, making information easier to access, update, and manage.',
+    image: '/barangay.png',
+    githubUrl: '#',
+  },
 ];
 
 const Projects = () => {
