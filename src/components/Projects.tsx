@@ -119,15 +119,6 @@ const projects: Project[] = [
     githubUrl: '#',
   },
   {
-    title: 'Scramble Game',
-    description:
-      'A fun and engaging word game where players unscramble letters to form valid words.',
-    tech: ['HTML', 'CSS', 'JavaScript'],
-    image: '/scramble.png',
-    liveUrl: '#',
-    githubUrl: '#',
-  },
-  {
     title: 'Barangay Management System',
     description:
       'A comprehensive web application designed to streamline the administrative tasks of a barangay, including resident management, event scheduling, and document processing.',
